@@ -29,7 +29,7 @@
 
 Before getting started, download the appropriate version of each program for your operating system:
 
-- [**Miniconda**](https://docs.conda.io/en/latest/miniconda.html) — Python and Conda environment management
+- [**Miniconda**](https://www.anaconda.com/docs/getting-started/installation) — Python and Conda environment management
 - [**Visual Studio Code**](https://code.visualstudio.com/download) — your code editor
 - [**GitHub Desktop**](https://desktop.github.com/) — optional graphical interface for Git and GitHub
 - [**Git**](https://git-scm.com/downloads) — version control
