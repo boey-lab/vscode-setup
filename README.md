@@ -54,7 +54,7 @@ Install VS Code using the downloaded installer.
 
 ## 2. Install Git
 
-Install Git using the default options wherever possible with one exception.
+Install Git using the default options wherever possible, with one exception.
 
 For example:
 
@@ -92,7 +92,7 @@ If the installer asks whether to add Conda to your `PATH`, the recommended appro
 #### Open Anaconda Prompt
 Open **Anaconda Prompt** from the Start menu.
 
-If `(base)` is not written at start of line, run `conda activate base`
+If `(base)` is not written at the start of the line, run `conda activate base`
 
 If Windows does not recognize the `conda` command, you may need to add your Miniconda installation to your system `PATH`.
 
@@ -103,21 +103,24 @@ A common error looks like:
 See the [Conda documentation](https://docs.conda.io/projects/conda/en/latest/) or [this troubleshooting guide](https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command), also outlined below, if you encounter this problem.
 
 #### Troubleshooting 
+
 1. Find conda location
-    Check where Conda is installed:
+
+   Check where conda is installed:
 
     ```bash
     where conda
     ```
     <img src="images/conda-setup-whereconda.png" width="500">
 
-2. Open Advanced System Settings
+3. Open Advanced System Settings
 
     Search Windows for Advanced System Settings and open it.
 
     <img src="images/conda-setup-advancedsettings.png" width="500">
 
-3. Edit Environment Variables
+4. Edit Environment Variables
+
     Click Environment Variables.
     
     <img src="images/conda-setup-environment-variables.png" width="500">
@@ -134,7 +137,8 @@ See the [Conda documentation](https://docs.conda.io/projects/conda/en/latest/) o
         C:\Users\uXXXXXX\AppData\Local\miniconda3\Scripts
         C:\Users\uXXXXXX\AppData\Local\miniconda3\Library\bin
 
-4. Test Conda
+6. Test Conda
+
     Open Command Prompt -- **not** Anaconda Prompt -- and test the installation:
 
         conda activate base
@@ -145,7 +149,7 @@ See the [Conda documentation](https://docs.conda.io/projects/conda/en/latest/) o
     
     Then run `conda activate base` as per [this_help_link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment) in case you get a warning.
 
-5.  Restart computer 😊
+8.  Restart computer 😊
 
 # 🛠️ Setup
 
