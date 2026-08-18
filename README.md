@@ -222,19 +222,19 @@ Preferences: Open Settings (UI)
 
     <img src="images/vscode-settings_jupyterntbkroot.png" width="600">
 
-- Windows OS only: set default shell to Command Prompt
+- Windows OS only: set default shell to Command Prompt (Optional. Powershell is ok)
     
-    <img src="images/vscode-setup-select-interpreter.png" width="600">
+    <img src="images/vscode-settings-cmd-default.png" width="600">
 
 - Hide the annoying Minimap
     
     <img src="images/vscode-settings_minimap.png" width="600">
 
-- Turn on bracket autocompletion (life changing)
+- Turn on bracket autocompletion (life-changing)
 
     <img src="images/vscode-settings-autoclose-bracket.png" width="600">
 
-- Turn on wordwrap
+- Turn on word wrap
   
     <img src="images/vscode-settings-word-wrap.png" width="600">
         
