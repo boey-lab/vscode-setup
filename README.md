@@ -181,7 +181,6 @@ For more detailed information about Git-based version control, check out the [Ad
     | **GitLens**                 | Adds enhanced Git and repository functionality             |
     | **GitHub Markdown Preview** | Makes VS Code's Markdown preview more closely match GitHub |
     | **autoDocstring**           | Generates Python docstrings                                |
-    | **Excel Viewer**            | Allows Excel and CSV files to be previewed in VS Code      |
 
 
 ## General Settings
