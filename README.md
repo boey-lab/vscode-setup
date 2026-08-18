@@ -254,7 +254,7 @@ For example, you might organize your projects like this:
 
         Desktop/
         └── repos/
-            ├── print_hello/
+            ├── vscode_setup_test/
             ├── project_1/
             └── project_2/
 
@@ -266,7 +266,9 @@ Open VS Code. If another repository opens by default, create a new window with t
 
         Ctrl + Shift + N
 
-Then open the print_hello folder as your workspace. You can drag and drop a folder from file explorer.
+Then open the `vscode_setup_test` folder as your workspace. You can drag and drop a folder from File Explorer.
+
+<img src="images/vscode-setup-hello.py.png" width="400">
 
 > 💡 Tip: In VS Code, a *workspace* generally corresponds to the project or repository you are currently working in.
 
@@ -277,13 +279,16 @@ Now let's create our first Python file.
 
 In the Explorer panel, create a new file and give it the `.py` extension:        
 
-<img src="images/vscode-setup-hello.py.png" width="400">
+Opening the file should prompt VS Code to select a Python interpreter.
 
-Opening the file should cause VS Code to prompt you to select a Python interpreter.
+<img src="images/vscode-settings-python-interpreter.png" width="400">
+
+OR
+
+<img src="images/vscode-settings-python-interpreter.png" width="400">
 
 > 💡 Tip: If the interpreter is not appearing, try saving your file, opening the terminal (`Ctrl + ` `), and clicking around in VS Code. Sometimes the interpreter lags. 
 
-<img src="images/vscode-settings-python-interpreter.png" width="400">
 
 ### 2. Select the Conda environment
 If everything is configured correctly, VS Code should automatically find your Conda installation.
