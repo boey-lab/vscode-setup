@@ -282,6 +282,8 @@ In the Explorer panel, create a new file and give it the `.py` extension:
 
 Opening the file should cause VS Code to prompt you to select a Python interpreter.
 
+> 💡 Tip: If the interpreter is not appearing, try saving your file, opening the terminal (`Ctrl + ` `), and clicking around in VS Code. Sometimes the interpreter lags. 
+
 <img src="images/vscode-settings-python-interpreter.png" width="400">
 
 ### 2. Select the Conda environment
