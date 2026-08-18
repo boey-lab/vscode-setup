@@ -281,7 +281,7 @@ In the Explorer panel, create a new file and give it the `.py` extension:
 
 Opening the file should prompt VS Code to select a Python interpreter.
 
-<img src="images/vscode-settings-python-interpreter.png" width="400">
+<img src="images/vscode-settings-python-interpreter-select.png" width="400">
 
 OR
 
