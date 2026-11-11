@@ -350,6 +350,10 @@ You can also specify your exact python version, for example:
 
 > 💡Tip: Giving environments descriptive names can make it much easier to remember what they are used for.
 
+As of July 2025, Anaconda requires users to accept the new terms and conditions, so you will be prompted to run the following commands to accept them:
+
+<img src="images/anaconda_terms_and_conditions.png" width="600">
+
 ### 2. Activate the environment
 
         conda activate myenv
